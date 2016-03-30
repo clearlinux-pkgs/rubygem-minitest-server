@@ -4,7 +4,7 @@
 #
 Name     : rubygem-minitest-server
 Version  : 1.0.3
-Release  : 7
+Release  : 8
 URL      : https://rubygems.org/downloads/minitest-server-1.0.3.gem
 Source0  : https://rubygems.org/downloads/minitest-server-1.0.3.gem
 Summary  : No detailed summary available
@@ -54,36 +54,14 @@ pushd %{buildroot}%{gem_dir}/gems/minitest-server-1.0.2 && rake --trace test TES
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/minitest-server-1.0.3.gem
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/Minitest/Server/cdesc-Server.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/Minitest/Server/client-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/Minitest/Server/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/Minitest/Server/path-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/Minitest/Server/quit-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/Minitest/Server/report-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/Minitest/Server/result-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/Minitest/Server/run-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/Minitest/Server/start-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/Minitest/Server/stop-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/Minitest/ServerReporter/cdesc-ServerReporter.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/Minitest/ServerReporter/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/Minitest/ServerReporter/record-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/Minitest/ServerReporter/report-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/Minitest/ServerReporter/sanitize-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/Minitest/ServerReporter/start-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/Minitest/cdesc-Minitest.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/Minitest/plugin_server_init-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/page-History_rdoc.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/page-Manifest_txt.ri
-/usr/lib64/ruby/gems/2.2.0/doc/minitest-server-1.0.3/ri/page-README_rdoc.ri
-/usr/lib64/ruby/gems/2.2.0/gems/minitest-server-1.0.3/.autotest
-/usr/lib64/ruby/gems/2.2.0/gems/minitest-server-1.0.3/.gemtest
-/usr/lib64/ruby/gems/2.2.0/gems/minitest-server-1.0.3/History.rdoc
-/usr/lib64/ruby/gems/2.2.0/gems/minitest-server-1.0.3/Manifest.txt
-/usr/lib64/ruby/gems/2.2.0/gems/minitest-server-1.0.3/README.rdoc
-/usr/lib64/ruby/gems/2.2.0/gems/minitest-server-1.0.3/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/minitest-server-1.0.3/lib/minitest/server.rb
-/usr/lib64/ruby/gems/2.2.0/gems/minitest-server-1.0.3/lib/minitest/server_plugin.rb
-/usr/lib64/ruby/gems/2.2.0/gems/minitest-server-1.0.3/test/minitest/test_server.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/minitest-server-1.0.3.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/minitest-server-1.0.3.gem
+/usr/lib64/ruby/gems/2.3.0/gems/minitest-server-1.0.3/.autotest
+/usr/lib64/ruby/gems/2.3.0/gems/minitest-server-1.0.3/.gemtest
+/usr/lib64/ruby/gems/2.3.0/gems/minitest-server-1.0.3/History.rdoc
+/usr/lib64/ruby/gems/2.3.0/gems/minitest-server-1.0.3/Manifest.txt
+/usr/lib64/ruby/gems/2.3.0/gems/minitest-server-1.0.3/README.rdoc
+/usr/lib64/ruby/gems/2.3.0/gems/minitest-server-1.0.3/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/minitest-server-1.0.3/lib/minitest/server.rb
+/usr/lib64/ruby/gems/2.3.0/gems/minitest-server-1.0.3/lib/minitest/server_plugin.rb
+/usr/lib64/ruby/gems/2.3.0/gems/minitest-server-1.0.3/test/minitest/test_server.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/minitest-server-1.0.3.gemspec
