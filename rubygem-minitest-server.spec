@@ -4,7 +4,7 @@
 #
 Name     : rubygem-minitest-server
 Version  : 1.0.3
-Release  : 8
+Release  : 9
 URL      : https://rubygems.org/downloads/minitest-server-1.0.3.gem
 Source0  : https://rubygems.org/downloads/minitest-server-1.0.3.gem
 Summary  : No detailed summary available
